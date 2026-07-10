@@ -3,7 +3,7 @@
 <h3 align="center">💻 Desarrollador de Software | Panamá 🇵🇦 | Full-Stack & Cloud 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4FF&center=true&vCenter=true&width=500&lines=Construyendo+el+futuro+web;Cloud+%26+AI+Enthusiast;Panamá+%F0%9F%87%B5%F0%9F%87%A6+al+mundo+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Mayrenis+%F0%9F%91%8B;Software+Developer+from+Panama+%F0%9F%87%B5%F0%9F%87%A6;Building+web+applications;Cloud+%26+AI+Explorer;Turning+coffee+into+code+%E2%98%95;Always+learning%2C+always+building;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 </p>
 
 ---
