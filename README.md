@@ -132,16 +132,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayrenisg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayrenisg&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="37%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mayrenisg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayrenisg&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayrenisg&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="50%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayrenisg&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=mayrenisg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
