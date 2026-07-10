@@ -147,7 +147,6 @@
 ## 🤝 Conecta Conmigo
 
 <p align="center">
-  <a href="https://github.com/mayrenisg"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mayrenis-g%C3%B3mez-10903322a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mayrenis.gomez1g@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
