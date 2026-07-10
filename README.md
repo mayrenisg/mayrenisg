@@ -158,6 +158,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Gracias%20por%20visitar!&fontSize=24&fontAlignY=70" />
 </p>
 
-<p align="center">
-  ⭐ ¡Gracias por visitar mi perfil!
-</p>
