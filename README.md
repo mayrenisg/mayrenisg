@@ -70,26 +70,40 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos Públicos
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">☁️ OrderHub AZ204</h3>
       <p align="center">
-        <em>Aplicación cloud con Azure Functions</em>
+        <em>App full stack NestJS + React desplegada en Azure</em>
       </p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=ts,azure" />
+        <img src="https://skillicons.dev/icons?i=ts,react,nestjs,azure,postgres" />
       </p>
       <p align="center">
         <a href="https://github.com/mayrenisg/orderhub-az204">🔗 Repositorio</a>
       </p>
     </td>
     <td width="50%">
+      <h3 align="center">🏗️ Proyecto Final (Terraform)</h3>
+      <p align="center">
+        <em>Infraestructura como código con Terraform + Azure</em>
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=terraform,azure,githubactions" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/mayrenisg/proyecto-final">🔗 Repositorio</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">🎓 Sistema Matrícula En Línea</h3>
       <p align="center">
-        <em>Sistema académico de gestión de matrículas</em>
+        <em>Sistema web Java/JSP para matrícula académica</em>
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=java,sql" />
@@ -101,27 +115,27 @@
   </tr>
   <tr>
     <td width="50%">
+      <h3 align="center">📈 StonksPilot</h3>
+      <p align="center">
+        <em>Bot financiero Node.js + Telegram + API Wallbit</em>
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,js" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/mayrenisg/stonkspilot">🔗 Repositorio</a>
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">💪 GainMasters</h3>
       <p align="center">
-        <em>Plataforma web de fitness</em>
+        <em>Sitio web estático de fitness y ejercicios</em>
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=html,css,js" />
       </p>
       <p align="center">
         <a href="https://github.com/mayrenisg/gainmasters">🔗 Repositorio</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📈 StonksPilot</h3>
-      <p align="center">
-        <em>Proyecto de datos financieros</em>
-      </p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=html,js" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/mayrenisg/stonkspilot">🔗 Repositorio</a>
       </p>
     </td>
   </tr>
