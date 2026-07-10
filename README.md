@@ -15,12 +15,6 @@ Currently focused on:
 
 ## About Me
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mayrenisg\&color=blue)](https://github.com/mayrenisg)
-
-[![GitHub followers](https://img.shields.io/github/followers/mayrenisg?style=flat\&logo=github)](https://github.com/mayrenisg)
-
-[![GitHub stars](https://img.shields.io/github/stars/mayrenisg?style=flat\&logo=github)](https://github.com/mayrenisg)
-
 ```yaml
 name: mayrenisg
 location: Panama 🇵🇦
@@ -150,47 +144,5 @@ Financial data project exploring market-related applications.
 </p>
 
 ---
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mayrenisg&theme=tokyonight&no-frame=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/mayrenisg/mayrenisg/output/github-contribution-grid-snake.svg">
-
-</p>
-
----
-
-# 🌱 Current Journey
-
-```text
-Software Development
-        ↓
-Cloud Engineering
-        ↓
-Artificial Intelligence
-        ↓
-Building intelligent products
-```
-
----
-
-# 🤝 Connect With Me
-
-💼 LinkedIn:
-
-🌐 Portfolio:
-
-📧 Email:
 
 ⭐ Thanks for visiting my profile!
