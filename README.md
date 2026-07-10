@@ -112,8 +112,6 @@
         <a href="https://github.com/mayrenisg/sistemamatriculaenlinea">🔗 Repositorio</a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">📈 StonksPilot</h3>
       <p align="center">
@@ -126,6 +124,8 @@
         <a href="https://github.com/mayrenisg/stonkspilot">🔗 Repositorio</a>
       </p>
     </td>
+    </tr>
+    <tr>
     <td width="50%">
       <h3 align="center">💪 GainMasters</h3>
       <p align="center">
