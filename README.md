@@ -1,4 +1,4 @@
-<h1 align="center">🌟 ¡Hola! Soy mayrenis👋</h1>
+<h1 align="center">🌟 ¡Hola! Soy Mayrenis</h1>
 
 <h3 align="center">💻 Desarrollador de Software | Panamá 🇵🇦 | Full-Stack & Cloud 🚀</h3>
 
@@ -126,6 +126,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
